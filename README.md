@@ -2,5 +2,5 @@
 
 Just run the program and you can play the game
 
-This project are followed the below tutorial:
+This project is followed the below tutorial:
 https://www.edureka.co/blog/snake-game-with-pygame/
