@@ -1,4 +1,4 @@
-# Python_practice : It is my Python practice to learn Python.
+# Python_practice : It is my Python practice for learning purpose.
 
 Just run the program and you can play the game
 
